@@ -24,3 +24,5 @@
 Пример работы программы:
 
 <img width="549" height="375" alt="image" src="https://github.com/user-attachments/assets/360762d9-c733-4dcb-9e1f-8ed147d4c563" />
+
+<img width="187" height="133" alt="Снимок экрана 2025-10-30 143148" src="https://github.com/user-attachments/assets/afa57b0e-6eae-4824-a3f5-ea1b91a96e1e" />
